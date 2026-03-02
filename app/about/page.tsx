@@ -26,7 +26,7 @@ export default function AboutPage() {
         <section className="border-b border-border bg-secondary py-20 md:py-32">
           <div className="mx-auto max-w-7xl px-4">
             <div className="space-y-6 max-w-3xl">
-              <h1 className="text-4xl font-bold md:text-5xl lg:text-6xl">About FitElite</h1>
+              <h1 className="text-4xl font-bold md:text-5xl lg:text-6xl">About NewDawn</h1>
               <p className="text-xl text-muted-foreground">
                 Transforming bodies and changing lives through elite training, expert guidance, and an unbeatable community.
               </p>
