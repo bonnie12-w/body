@@ -156,7 +156,7 @@ export default function ShopPage() {
         <section className="border-b border-border bg-secondary py-20 md:py-32">
           <div className="mx-auto max-w-7xl px-4 flex items-center justify-between">
             <div className="space-y-4">
-              <h1 className="text-4xl font-bold md:text-5xl lg:text-6xl">FitElite Shop</h1>
+              <h1 className="text-4xl font-bold md:text-5xl lg:text-6xl">NewDawn Shop</h1>
               <p className="max-w-2xl text-lg text-muted-foreground">
                 Premium fitness gear and supplements to complement your training.
               </p>
